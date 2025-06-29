@@ -2,6 +2,9 @@
 
 A simple and efficient URL shortener built using modern web technologies. Users can shorten long URLs and get a compact version that redirects to the original address.
 
+# use this link to know how the website works
+https://url-shortner-hazel-seven.vercel.app/
+
 ## 🚀 Features
 
 - Shorten any valid URL
@@ -34,3 +37,4 @@ VITE_SUPABASE_URL
 
 4.Run your app
 npm run dev
+
